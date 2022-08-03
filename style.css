@@ -10,6 +10,7 @@ html {
     font-family: 'Inter', sans-serif;
     font-size: 15px;
     color: white;
+    min-height: 100vh;
 }
 
 body {
@@ -105,12 +106,13 @@ span {
 
 /* Desktop */
 
-@media (min-width: 375px) {
+@media (min-width: 900px) {
     .card {
         flex-direction: row-reverse;
         align-items: center;
         width: 1200px;
         border-radius: 15px;
+        justify-content: center;
     }
 
     .img-container-mobile, .img-container-mobile img {
