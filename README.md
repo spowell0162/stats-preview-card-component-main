@@ -29,7 +29,9 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [stats-preview-card-component-main-5wl.pages.dev
+](stats-preview-card-component-main-5wl.pages.dev
+)
 
 ## My process
 
